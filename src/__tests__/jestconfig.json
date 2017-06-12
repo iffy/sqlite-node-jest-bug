@@ -1,0 +1,7 @@
+{
+  "rootDir": "../../",
+  "moduleFileExtensions": [
+    "js"
+  ],
+  "testRegex": "test_.*\\.js$"
+}
