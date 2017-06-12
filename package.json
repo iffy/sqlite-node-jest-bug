@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jest": "20.0.4",
+    "sqlite3": "3.1.8"
+  }
+}
